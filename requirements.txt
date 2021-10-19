@@ -1,16 +1,6 @@
-base58==2.1.0
-matplotlib-inline==0.1.3
-mistune==0.8.4
-numpy @ file:///C:/ci/numpy_and_numpy_base_1626271903025/work
-pandas @ file:///C:/ci/pandas_1629682609359/work
-pandocfilters==1.5.0
-pickleshare==0.7.5
-Pillow @ file:///C:/ci/pillow_1602770972588/work
-scikit-learn @ file:///C:/ci/scikit-learn_1622739500535/work
-Send2Trash==1.8.0
-sip==4.19.13
-six @ file:///tmp/build/80754af9/six_1623709665295/work
-smmap==4.0.0
-SQLAlchemy @ file:///D:/bld/sqlalchemy_1632383544096/work
+numpy==1.20.3
+pillow==8.0.0
+pandas==1.3.2
+scikit-learn==0.24.2
+rdkit==2021.03.5
 streamlit==0.89.0
-urllib3==1.26.7
